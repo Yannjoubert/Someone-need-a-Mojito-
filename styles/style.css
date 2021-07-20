@@ -1,0 +1,53 @@
+html {
+    background-color: #b3b3af;
+    }
+
+  body {
+    width: 700px;
+    margin: 0 auto;
+    background-color: #14a740;
+    padding: 0 40px 40px 40px;
+    border: 6px solid black;
+    }
+
+html {
+    font-size: 10px; /* px signifie 'pixels': la taille de base pour la police est désormais 10 pixels de haut  */
+    font-family: 'Open Sans', sans-serif; /* cela devrait être le reste du résultat obtenu à partir de Google fonts */
+    }
+
+img {
+    display: block;
+    margin: 0 auto;
+    }
+
+h1 {
+    margin: 0;
+    padding: 20px 0;
+    color: #f3de21;
+    text-shadow: 5px 5px 1px black;
+    }
+
+h1 {
+    font-size: 60px;
+    text-align: center;
+    }
+
+p, li, a {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+    }
+
+#toto {
+    color: blue;
+}
+
+.recette {
+    color: yellow;
+}
+
+/* p {
+    color: red;
+    width: 900px;
+    /* border: 1px solid black; */
+    /* p = sélecteur, color = Propriété, red = valeur, "Propriété et valeur sont des déclaration*/
